@@ -190,6 +190,7 @@ footer{
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
+    margin-bottom: 0px;
 }
 footer>a{
     text-decoration: none;
